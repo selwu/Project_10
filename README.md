@@ -1,4 +1,5 @@
-# Project_10
+# Проект: "Валидация формы с помощью регулярных выражений"
 
+### Ссылка на проект: https://selwu.github.io/form/
 
-https://selwu.github.io/Project_10/
+##### Версия: 0.0.2
